@@ -1,16 +1,21 @@
-### Hi there 👋
+<div align="center">
+  <h1> ✨Welcome to QAQDFAFD's Github!✨ </h1>
 
-<!--
-**QAQDFAFD/QAQDFAFD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Technology Stack🔮</h2>
+  
+[![My Skills](https://skillicons.dev/icons?i=js,html,sass,css,ts,vue,astro,vite,webpack,vscode,nodejs,py,django,fastapi,flask,selenium,regex,mysql,mongodb,redis,linux,docker,git,vim,nginx,md,matlab,go,c,cpp,qt,gitlab,powershell,bash)](https://skillicons.dev)
 
-Here are some ideas to get you started:
+<h3><a href="https://index.drshw.tech/">Labtorary⚗️</a></h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr/>
+<h2>昼短苦夜长，何不秉烛游？🔭</h2>
+<!-- GitHub Activity Graph -->
+<table align="center">
+  <tr>
+    <td colspan="2">
+      <img src="https://activity-graph.herokuapp.com/graph?username=DrSHW&theme=xcode&bg_color=FF000000&hide_border=true" />
+    </td>
+  </tr>
+</table>
+
+</div>
