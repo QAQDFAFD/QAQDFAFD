@@ -5,10 +5,8 @@
   
 [![My Skills](https://skillicons.dev/icons?i=js,html,sass,css,ts,express,vue,vite,webpack,vscode,nodejs,mysql,linux,docker,git,vim,nginx,md,gitlab,powershell,bash)](https://skillicons.dev)
 
-<h3><a href="https://index.drshw.tech/">Labtorary⚗️</a></h3>
-
 <hr/>
-<h2>昼短苦夜长，何不秉烛游？🔭</h2>
+<h2>早睡早起！🔭</h2>
 <!-- GitHub Activity Graph -->
 <table align="center">
   <tr>
