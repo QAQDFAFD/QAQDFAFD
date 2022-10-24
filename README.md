@@ -6,7 +6,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,sass,css,ts,express,vue,vite,webpack,vscode,nodejs,mysql,linux,docker,git,vim,nginx,md,gitlab,powershell,bash)](https://skillicons.dev)
 
 <hr/>
-<h2>早睡早起！🔭</h2>
+<a href='https://lijiajun.tech'>早睡早起！🔭</a>
 <!-- GitHub Activity Graph -->
 <table align="center">
   <tr>
