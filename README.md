@@ -1,9 +1,7 @@
 <div align="center">
   <h1> ✨Welcome to QAQDFAFD's Github!✨ </h1>
-
-<h2>Technology Stack🔮</h2>
   
-[![My Skills](https://skillicons.dev/icons?i=js,html,sass,css,ts,express,vue,vite,webpack,vscode,nodejs,mysql,linux,docker,git,vim,nginx,md,gitlab,powershell,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,express,vue,nodejs,mysql)](https://skillicons.dev)
 
 <hr/>
 <!-- GitHub Activity Graph -->
